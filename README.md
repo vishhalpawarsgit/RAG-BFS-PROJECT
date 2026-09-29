@@ -18,12 +18,7 @@ The system is designed for questions involving banking financial performance, fi
 The final dataset should contain multiple genuine public BFS PDFs in the data/ directory.
 
 Recommended sources:
-
-Credentials ** SO didnt upload 
-
-During development, synthetic BFS PDFs were used for controlled testing. These synthetic documents are clearly identified as synthetic and must not be represented as real-world financial information.
-
-See REAL_DATA_SOURCES.md for official source pages.
+Credential so not uploaded
 
 4. Architecture
 

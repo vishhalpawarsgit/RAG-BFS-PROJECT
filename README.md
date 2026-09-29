@@ -19,9 +19,7 @@ The final dataset should contain multiple genuine public BFS PDFs in the data/ d
 
 Recommended sources:
 
-Bank of India Annual Report 2025-26
-
-Reserve Bank of India Annual Report 2024-25
+Credentials ** SO didnt upload 
 
 During development, synthetic BFS PDFs were used for controlled testing. These synthetic documents are clearly identified as synthetic and must not be represented as real-world financial information.
 
